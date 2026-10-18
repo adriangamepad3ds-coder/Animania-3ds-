@@ -1,0 +1,27 @@
+{
+  "songs": [
+    [
+      "Bopeebo Animania",
+      "",
+      [
+        255,
+        20,
+        130
+      ]
+    ]
+  ],
+  "weekCharacters": [
+    "bf_animania",
+    "dad_animania",
+    "gf"
+  ],
+  "weekBackground": "stage",
+  "storyName": "Bopeebo Animania",
+  "weekBefore": "",
+  "album": "bopeebo-animania",
+  "weekName": "Bopeebo Animania",
+  "difficulties": "Hard",
+  "startUnlocked": true,
+  "hideStoryMode": true,
+  "hideFreeplay": false
+}

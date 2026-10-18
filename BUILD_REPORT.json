@@ -1,0 +1,41 @@
+{
+  "scope": "Bopeebo Animania — Hard only",
+  "song_id": "bopeebo-animania",
+  "playable_chart": "data/bopeebo-animania/bopeebo-animania-hard.json",
+  "week_entry": "weeks/bopeebo-animania.json",
+  "difficulties_in_week": "Hard",
+  "audio": {
+    "instrumental": "songs/bopeebo-animania/Inst.adp",
+    "vocals": "songs/bopeebo-animania/Voices.adp",
+    "vocal_mix": "Voices-bf hard stem + Voices-dad stem, original alignment"
+  },
+  "characters": {
+    "boyfriend": "custom Sparrow sheet made from reconstructed original full-pose frames; 5 poses, one frame each",
+    "dad": "custom Sparrow sheet made from reconstructed original full-pose frames; 5 poses, one frame each",
+    "girlfriend": "uses Snake Engine base character gf"
+  },
+  "stage": "static mainStageAmTake layers with original converted rawtex; some animated stage elements omitted",
+  "checks": [
+    "JSON parse",
+    "ZIP structure paths",
+    "chart only Hard",
+    "SADP header and declared sample counts",
+    "all character rawtex dimensions 1024x1024",
+    "all XML frame rectangles within atlas",
+    "audio durations compared to source"
+  ],
+  "not_verified": [
+    "running inside Snake Engine",
+    "Freeplay visibility on real 3DS",
+    "audio playback on 3DS hardware",
+    "exact character scaling/placement on hardware"
+  ],
+  "limitations": [
+    "The source Animate rigs were reconstructed as five full-pose frames per BF/Dad rather than preserving all original rig animation frames.",
+    "Girlfriend uses the engine's built-in gf character because the available reconstructed GF poses were incomplete.",
+    "Animated crowd and animated stage props are not integrated in this build."
+  ],
+  "chart_format": "psych_v1_convert (absolute lanes; required by Snake Engine parser)",
+  "source_reference_audio_included": false,
+  "source_chart_copies_included": false
+}

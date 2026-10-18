@@ -1,0 +1,11 @@
+{
+  "name": "Animania Bopeebo Hard",
+  "description": "Port de Bopeebo de Animania para Snake Engine 3DS. Solo dificultad Hard.",
+  "restart": false,
+  "runsGlobally": false,
+  "color": [
+    255,
+    20,
+    130
+  ]
+}
