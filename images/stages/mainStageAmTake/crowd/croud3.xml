@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="croud3.png">
+	<SubTexture name="croud30000" x="2" y="736" width="1009" height="180" frameX="-3" frameY="-95" frameWidth="1017" frameHeight="276" />
+	<SubTexture name="croud30001" x="2" y="736" width="1009" height="180" frameX="-3" frameY="-95" frameWidth="1017" frameHeight="276" />
+	<SubTexture name="croud30002" x="2" y="366" width="1010" height="182" frameX="-2" frameY="-92" frameWidth="1017" frameHeight="276" />
+	<SubTexture name="croud30003" x="2" y="366" width="1010" height="182" frameX="-2" frameY="-92" frameWidth="1017" frameHeight="276" />
+	<SubTexture name="croud30004" x="2" y="552" width="1010" height="180" frameX="-2" frameY="-91" frameWidth="1017" frameHeight="276" />
+	<SubTexture name="croud30005" x="2" y="552" width="1010" height="180" frameX="-2" frameY="-91" frameWidth="1017" frameHeight="276" />
+	<SubTexture name="croud30006" x="2" y="184" width="1013" height="178" frameX="-2" frameY="-90" frameWidth="1017" frameHeight="276" />
+	<SubTexture name="croud30007" x="2" y="184" width="1013" height="178" frameX="-2" frameY="-90" frameWidth="1017" frameHeight="276" />
+	<SubTexture name="croud30008" x="2" y="2" width="1015" height="178" frameX="-1" frameY="-90" frameWidth="1017" frameHeight="276" />
+	<SubTexture name="croud30009" x="2" y="2" width="1015" height="178" frameX="-1" frameY="-90" frameWidth="1017" frameHeight="276" />
+	<SubTexture name="croud30010" x="2" y="2" width="1015" height="178" frameX="-1" frameY="-90" frameWidth="1017" frameHeight="276" />
+	<SubTexture name="croud30011" x="2" y="2" width="1015" height="178" frameX="-1" frameY="-90" frameWidth="1017" frameHeight="276" />
+	<SubTexture name="croud30012" x="2" y="2" width="1015" height="178" frameX="-1" frameY="-90" frameWidth="1017" frameHeight="276" />
+	<SubTexture name="croud30013" x="2" y="2" width="1015" height="178" frameX="-1" frameY="-90" frameWidth="1017" frameHeight="276" />
+</TextureAtlas>

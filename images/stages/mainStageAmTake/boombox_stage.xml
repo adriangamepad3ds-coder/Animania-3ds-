@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="boombox_stage.png">
+	<SubTexture name="boombox stage0000" x="2" y="2" width="393" height="333" />
+	<SubTexture name="boombox stage0001" x="2" y="2" width="393" height="333" />
+	<SubTexture name="boombox stage0002" x="402" y="2" width="384" height="329" frameX="-1" frameY="-3" frameWidth="393" frameHeight="333" />
+	<SubTexture name="boombox stage0003" x="402" y="2" width="384" height="329" frameX="-1" frameY="-3" frameWidth="393" frameHeight="333" />
+	<SubTexture name="boombox stage0004" x="2" y="341" width="388" height="326" frameX="-1" frameY="-7" frameWidth="393" frameHeight="333" />
+	<SubTexture name="boombox stage0005" x="402" y="341" width="388" height="321" frameX="-1" frameY="-12" frameWidth="393" frameHeight="333" />
+	<SubTexture name="boombox stage0006" x="2" y="680" width="388" height="321" frameX="-1" frameY="-12" frameWidth="393" frameHeight="333" />
+	<SubTexture name="boombox stage0007" x="2" y="680" width="388" height="321" frameX="-1" frameY="-12" frameWidth="393" frameHeight="333" />
+	<SubTexture name="boombox stage0008" x="2" y="680" width="388" height="321" frameX="-1" frameY="-12" frameWidth="393" frameHeight="333" />
+	<SubTexture name="boombox stage0009" x="2" y="680" width="388" height="321" frameX="-1" frameY="-12" frameWidth="393" frameHeight="333" />
+	<SubTexture name="boombox stage0010" x="2" y="680" width="388" height="321" frameX="-1" frameY="-12" frameWidth="393" frameHeight="333" />
+	<SubTexture name="boombox stage0011" x="2" y="680" width="388" height="321" frameX="-1" frameY="-12" frameWidth="393" frameHeight="333" />
+	<SubTexture name="boombox stage0012" x="2" y="680" width="388" height="321" frameX="-1" frameY="-12" frameWidth="393" frameHeight="333" />
+	<SubTexture name="boombox stage0013" x="2" y="680" width="388" height="321" frameX="-1" frameY="-12" frameWidth="393" frameHeight="333" />
+	<SubTexture name="boombox stage0014" x="2" y="680" width="388" height="321" frameX="-1" frameY="-12" frameWidth="393" frameHeight="333" />
+</TextureAtlas>

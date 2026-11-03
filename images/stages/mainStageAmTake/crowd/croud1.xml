@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="croud1.png">
+	<SubTexture name="croud10000" x="2" y="2" width="1015" height="239" frameX="-118" frameY="-66" frameWidth="1278" frameHeight="347" />
+</TextureAtlas>

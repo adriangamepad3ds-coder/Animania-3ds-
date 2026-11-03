@@ -1,0 +1,308 @@
+{
+    "animations": [
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "danceLeft",
+            "indices": [
+                0,
+                1,
+                2,
+                3,
+                4,
+                5,
+                6,
+                7,
+                8,
+                9,
+                10,
+                11,
+                12,
+                13,
+                14
+            ],
+            "name": "EVERYTHING/GF/anims/GF IDLE"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "danceRight",
+            "indices": [
+                15,
+                16,
+                17,
+                18,
+                19,
+                20,
+                21,
+                22,
+                23,
+                24,
+                25,
+                26,
+                27,
+                28,
+                29
+            ],
+            "name": "EVERYTHING/GF/anims/GF IDLE"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "count three",
+            "indices": [],
+            "name": "EVERYTHING/GF/anims/GF COUNT THREE"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "count two",
+            "indices": [],
+            "name": "EVERYTHING/GF/anims/GF COUNT TWO"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "count one",
+            "indices": [],
+            "name": "EVERYTHING/GF/anims/GF COUNT ONE"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "cheer",
+            "indices": [],
+            "name": "EVERYTHING/GF/anims/GF CHEER"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "hey",
+            "indices": [],
+            "name": "EVERYTHING/GF/anims/GF CHEER"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "combo100",
+            "indices": [],
+            "name": "EVERYTHING/GF/anims/GF CHEER"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "sob",
+            "indices": [],
+            "name": "EVERYTHING/GF/anims/GF CRY"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "drop80",
+            "indices": [],
+            "name": "EVERYTHING/GF/anims/GF CRY"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singLEFT",
+            "indices": [],
+            "name": "EVERYTHING/GF/anims/GF LEFT POINT"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singDOWN",
+            "indices": [],
+            "name": "EVERYTHING/GF/anims/GF DOWN POINT"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singUP",
+            "indices": [],
+            "name": "EVERYTHING/GF/anims/GF UP POINT"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "singRIGHT",
+            "indices": [],
+            "name": "EVERYTHING/GF/anims/GF RIGHT POINT"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "fresh solo",
+            "indices": [],
+            "name": "EVERYTHING/GF/anims/GF FRESH SOLO"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "danceLeft-drop",
+            "indices": [390,391,392,393,394,395,396,397,398,399,400],
+            "name": "EVERYTHING/GF/anims/GF FRESH SOLO"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "danceRight-drop",
+            "indices": [400,401,402,403,404,405,406,407,408,409,410],
+            "name": "EVERYTHING/GF/anims/GF FRESH SOLO"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "pre-dance",
+            "indices": [],
+            "name": "EVERYTHING/GF/anims/GF PRE DANCE"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "danceLeft-dance",
+            "indices": [],
+            "name": "EVERYTHING/GF/anims/GF DANCE LEFT"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "danceRight-dance",
+            "indices": [],
+            "name": "EVERYTHING/GF/anims/GF DANCE RIGHT"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": false,
+            "fps": 24,
+            "anim": "end-dance",
+            "indices": [],
+            "name": "EVERYTHING/GF/anims/GF END DANCE"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": true,
+            "fps": 24,
+            "anim": "normal-talk",
+            "indices": [],
+            "name": "EVERYTHING/GF/anims/GF NORMAL TALK"
+        },
+        {
+            "offsets": [
+                0,
+                0
+            ],
+            "loop": true,
+            "fps": 24,
+            "anim": "happy-talk",
+            "indices": [],
+            "name": "EVERYTHING/GF/anims/GF HAPPY TALK"
+        }
+    ],
+    "no_antialiasing": false,
+    "image": "characters/gf",
+    "position": [
+        185,
+        -10
+    ],
+    "healthicon": "gf",
+    "flip_x": false,
+    "healthbar_colors": [
+        161,
+        161,
+        161
+    ],
+    "camera_position": [
+        100,
+        285
+    ],
+    "sing_duration": 6.1,
+    "scale": 1
+}

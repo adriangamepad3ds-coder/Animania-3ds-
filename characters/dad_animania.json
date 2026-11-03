@@ -1,78 +1,454 @@
 {
-  "animations": [
-    {
-      "anim": "idle",
-      "name": "Dad idle dance",
-      "fps": 24,
-      "loop": false,
-      "indices": [],
-      "offsets": [
-        0,
-        0
-      ]
-    },
-    {
-      "anim": "singLEFT",
-      "name": "Dad Sing Note LEFT",
-      "fps": 24,
-      "loop": false,
-      "indices": [],
-      "offsets": [
-        0,
-        0
-      ]
-    },
-    {
-      "anim": "singDOWN",
-      "name": "Dad Sing Note DOWN",
-      "fps": 24,
-      "loop": false,
-      "indices": [],
-      "offsets": [
-        0,
-        0
-      ]
-    },
-    {
-      "anim": "singUP",
-      "name": "Dad Sing Note UP",
-      "fps": 24,
-      "loop": false,
-      "indices": [],
-      "offsets": [
-        0,
-        0
-      ]
-    },
-    {
-      "anim": "singRIGHT",
-      "name": "Dad Sing Note RIGHT",
-      "fps": 24,
-      "loop": false,
-      "indices": [],
-      "offsets": [
-        0,
-        0
-      ]
-    }
-  ],
-  "no_antialiasing": false,
-  "image": "characters/dad_animania",
-  "position": [
-    0,
-    0
-  ],
-  "healthicon": "dad",
-  "flip_x": false,
-  "healthbar_colors": [
-    175,
-    102,
-    206
-  ],
-  "camera_position": [
-    0,
-    0
-  ],
-  "sing_duration": 4,
-  "scale": 4
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "EVERYTHING/RENDER/anims/Idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-hold",
+			"fps": 24,
+			"name": "EVERYTHING/RENDER/anims/Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-angry",
+			"fps": 24,
+			"name": "EVERYTHING/RENDER/anims/angry Idle",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle-angry-hold",
+			"fps": 24,
+			"name": "EVERYTHING/RENDER/anims/angry Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "EVERYTHING/RENDER/anims/left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT-hold",
+			"fps": 24,
+			"name": "EVERYTHING/RENDER/anims/left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "EVERYTHING/RENDER/anims/down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN-hold",
+			"fps": 24,
+			"name": "EVERYTHING/RENDER/anims/down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "EVERYTHING/RENDER/anims/up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP-hold",
+			"fps": 24,
+			"name": "EVERYTHING/RENDER/anims/up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "EVERYTHING/RENDER/anims/right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT-hold",
+			"fps": 24,
+			"name": "EVERYTHING/RENDER/anims/right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT-angry",
+			"fps": 24,
+			"name": "EVERYTHING/RENDER/anims/angry left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT-angry-hold",
+			"fps": 24,
+			"name": "EVERYTHING/RENDER/anims/angry left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN-angry",
+			"fps": 24,
+			"name": "EVERYTHING/RENDER/anims/angry down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN-angry-hold",
+			"fps": 24,
+			"name": "EVERYTHING/RENDER/anims/angry down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP-angry",
+			"fps": 24,
+			"name": "EVERYTHING/RENDER/anims/angry up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP-angry-hold",
+			"fps": 24,
+			"name": "EVERYTHING/RENDER/anims/angry up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT-angry",
+			"fps": 24,
+			"name": "EVERYTHING/RENDER/anims/angry right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT-angry-hold",
+			"fps": 24,
+			"name": "EVERYTHING/RENDER/anims/angry right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT-beatbox",
+			"fps": 24,
+			"name": "EVERYTHING/RENDER/anims/beatbox left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT-beatbox-hold",
+			"fps": 24,
+			"name": "EVERYTHING/RENDER/anims/beatbox left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN-beatbox",
+			"fps": 24,
+			"name": "EVERYTHING/RENDER/anims/beatbox down",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN-beatbox-hold",
+			"fps": 24,
+			"name": "EVERYTHING/RENDER/anims/beatbox down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP-beatbox",
+			"fps": 24,
+			"name": "EVERYTHING/RENDER/anims/beatbox up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP-beatbox-hold",
+			"fps": 24,
+			"name": "EVERYTHING/RENDER/anims/beatbox up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT-beatbox",
+			"fps": 24,
+			"name": "EVERYTHING/RENDER/anims/beatbox right",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT-beatbox-hold",
+			"fps": 24,
+			"name": "EVERYTHING/RENDER/anims/beatbox right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "EVERYTHING/RENDER/anims/alt left",
+			"indices": [0,1,2,3,4,5,6,7,8,9]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "EVERYTHING/RENDER/anims/alt down",
+			"indices": [0,1,2,3,4,5,6,7,8,9]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN-alt-hold",
+			"fps": 24,
+			"name": "EVERYTHING/RENDER/anims/alt down",
+			"indices": [10,11,12,13,14]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "EVERYTHING/RENDER/anims/alt up",
+			"indices": [0,1,2,3,4,5,6,7,8,9]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "EVERYTHING/RENDER/anims/alt right",
+			"indices": [0,1,2,3,4,5,6,7,8,9]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT-alt-hold",
+			"fps": 24,
+			"name": "EVERYTHING/RENDER/anims/alt right",
+			"indices": [10,11,12,13,14]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "lights off",
+			"fps": 24,
+			"name": "EVERYTHING/RENDER/anims/light off",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "fresh huh",
+			"fps": 24,
+			"name": "EVERYTHING/RENDER/anims/huh",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "fresh fuck",
+			"fps": 24,
+			"name": "EVERYTHING/RENDER/anims/fresh stam",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "fresh fuck2",
+			"fps": 24,
+			"name": "EVERYTHING/RENDER/anims/fresh stam",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "shock",
+			"fps": 24,
+			"name": "EVERYTHING/RENDER/anims/bopeebo shock",
+			"indices": []
+		}
+	],
+	"vocals_file": "",
+	"no_antialiasing": false,
+	"image": "characters/dad",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dad-amtake",
+	"flip_x": false,
+	"healthbar_colors": [
+		175,
+		102,
+		206
+	],
+	"camera_position": [
+		-600,
+		-400
+	],
+	"sing_duration": 8,
+	"scale": 1,
+	"_editor_isPlayer": false
 }

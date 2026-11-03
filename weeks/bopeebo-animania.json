@@ -2,12 +2,16 @@
   "songs": [
     [
       "Bopeebo Animania",
-      "",
-      [
-        255,
-        20,
-        130
-      ]
+      "dadpixel",
+      [255, 20, 130],
+      "animania.snaky"
+    ],
+    [
+      "Fresh Animania",
+      "dadpixel",
+      [255, 20, 130],
+      "animania.snaky",
+      "pingazos.snaky"
     ]
   ],
   "weekCharacters": [
